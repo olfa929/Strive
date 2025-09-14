@@ -47,6 +47,57 @@ StriveAI revolutionizes marathon preparation by combining data from an integrate
     
 - *external data*: [kaggle] (https://www.kaggle.com/datasets/ziya07/wearable-sensor-system-for-physical-education?utm_source=chatgpt.com&fbclid=IwY2xjawMzfwdleHRuA2FlbQIxMABicmlkETFQQmRuQWg1TmRnZDJHY1ZBAR4KbaaLGRF6DdCAjXsqG2SohsxuMNKjFDAbx43xASrqwoFhzLhK8o5sCG9eTQ_aem_w31cmFYFLZgT_xc2xcwQ_Q)
 
+**🧠 AI Architecture – StriveAI Agent + Models**
+
+**Data Sources**
+
+Integrated-circuit smart sports suit (heart rate, HRV, respiration, motion, skin temp, exertion).
+
+Smartwatch for sleep and environment data (sleep stages, interruptions, noise/light).
+
+**Preprocessing & Features**
+Real-time signal cleaning and noise reduction.
+
+Rolling windows of biometric data for near-instant analysis.
+
+Derived metrics: HRV indicators, recovery slope, exertion proxies, sleep quality indices.
+
+**Modeling Stack (6+ Models)**
+
+Real-Time Risk Classifier – lightweight CNN/GRU for instant “OK / Caution / Stop” signals.
+
+Short-Horizon Forecaster – predicts near-future heart and recovery trends using temporal models.
+
+Anomaly Detector – catches unseen or abnormal heart dynamics with autoencoders.
+
+Sleep Quality Model – scores nightly recovery readiness from sleep metrics.
+
+Digital Heart Twin Simulation – virtual heart model that stress-tests performance under forecasted load.
+
+Eligibility Decision Layer – combines all models’ outputs into a single “play / rest” recommendation.
+
+**Agent Orchestration**
+
+Manages data ingestion, model calls, and decision logic.
+
+Balances risk, anomaly detection, and digital twin results into an Eligibility Score.
+
+Escalates alerts to medical teams with clear recommendations.
+
+**Evaluation & Benchmarks**
+Accuracy: AUROC, precision/recall of alerts.
+
+Forecast quality: MAE and uncertainty coverage.
+
+System performance: low latency (<250 ms for decisions).
+
+Explainability & Auditability
+
+Highlights top contributing features for each decision.
+
+Tracks model versions, thresholds, and athlete outcomes for accountability.
+
+⚡ This architecture enables StriveAI to act as an intelligent, real-time health guardian for athletes — combining multiple AI models with a digital twin of the heart to ensure safe and optimized performance.
 
 ## Getting Started
 
