@@ -33,11 +33,19 @@ Seamless Experience: Dark modern UI with smooth transitions, motivational visual
 - **Authentication**: Custom authentication system
 - **State Management**: React Hooks
 
+## Externel Ressources: 
+  - QROQ API for advanced data processing
+    
+  - *3D Visualization*: [Digital Twin Heart Model] (l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1LVmLTn2dACesKEly0xRo_WKNNkHVOHD4%2Fview%3Fusp%3Dsharing%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExUEJkbkFoNU5kZ2QyR2NWQQEe2DF7n2j2S_nC0Q0nDNBK-Z49guEa0CbSbYMeoWHbjX-hzcXaHaNtrLGWgDE_aem_Euf6o5BWzYHnhJq3HTqfBg&h=AT3s4UhZFmojDTUT9thKRr5KuCYvtJwjRpyqiSelusiC_-IU3Xrscbz848fyiHBQBaPXttEUS_ZvoDRczUEH6zgymmIUPKSrTwiDmfQINaLPOvN9UOSdnTDy-aljoxFSgqbFUXPoyAV2fO-cy8Sr1w)
+    
+- *external data*: [kaggle] (https://www.kaggle.com/datasets/ziya07/wearable-sensor-system-for-physical-education?utm_source=chatgpt.com&fbclid=IwY2xjawMzfwdleHRuA2FlbQIxMABicmlkETFQQmRuQWg1TmRnZDJHY1ZBAR4KbaaLGRF6DdCAjXsqG2SohsxuMNKjFDAbx43xASrqwoFhzLhK8o5sCG9eTQ_aem_w31cmFYFLZgT_xc2xcwQ_Q)
+beating-heart.blend
+
 ## Getting Started
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/olfa929/StriveAI.git
+git clone https://github.com/olfa929/Strive.git
 ```
 
 2. Install dependencies:
@@ -55,7 +63,7 @@ pnpm dev
 ## Project Structure
 
 ```
-StriveAI/
+Strive/
 ├── app/                    # Next.js app directory
 │   ├── api/               # API routes
 │   ├── dashboard/         # Dashboard page
