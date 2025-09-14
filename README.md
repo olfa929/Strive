@@ -39,7 +39,7 @@ Seamless Experience: Dark modern UI with smooth transitions, motivational visual
   - *3D Visualization*: [Digital Twin Heart Model] (https://drive.google.com/file/d/1LVmLTn2dACesKEly0xRo_WKNNkHVOHD4/view?fbclid=IwY2xjawMzgu9leHRuA2FlbQIxMABicmlkETFQQmRuQWg1TmRnZDJHY1ZBAR4uNOn27-M1c3QA645ZU9KxjBeO7dL9TVd_HioBd4ZZhqgBiCMb5kVPIkZLDg_aem_rYwDgSYZyj2dJrbsDl61Sg)
     
 - *external data*: [kaggle] (https://www.kaggle.com/datasets/ziya07/wearable-sensor-system-for-physical-education?utm_source=chatgpt.com&fbclid=IwY2xjawMzfwdleHRuA2FlbQIxMABicmlkETFQQmRuQWg1TmRnZDJHY1ZBAR4KbaaLGRF6DdCAjXsqG2SohsxuMNKjFDAbx43xASrqwoFhzLhK8o5sCG9eTQ_aem_w31cmFYFLZgT_xc2xcwQ_Q)
-beating-heart.blend
+
 
 ## Getting Started
 
