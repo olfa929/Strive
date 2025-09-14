@@ -84,13 +84,6 @@ export default function DashboardPage() {
               {isConnectingBodySuit ? "Connecting..." : bodySuitConnected ? "Body Suit ✓" : "Connect Body Suit"}
             </Button>
 
-            <Button
-              onClick={handleConnectWatch}
-              disabled={isConnectingWatch || watchConnected}
-              className="flex-1 h-14 bg-black/40 hover:bg-black/60 text-white font-light tracking-wide transition-all duration-300 rounded-lg border border-white/30 backdrop-blur-sm hover:border-white/50"
-            >
-              {isConnectingWatch ? "Connecting..." : watchConnected ? "Smart Watch ✓" : "Connect Watch"}
-            </Button>
           </div>
 
           {/* Status messages with refined white styling */}
@@ -106,11 +99,6 @@ export default function DashboardPage() {
             </div>
           )}
 
-          {watchConnected && (
-            <div className="text-center p-4 bg-black/30 backdrop-blur-sm rounded-lg border border-white/30">
-              <p className="text-white font-light">Smart watch connected</p>
-            </div>
-          )}
         </div>
       </div>
     </div>

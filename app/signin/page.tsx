@@ -58,7 +58,7 @@ export default function SignInPage() {
   }
 
   return (
-    <div className="min-h-screen bg-white flex items-center justify-center p-4">
+    <div className="min-h-screen flex items-center justify-center p-4" style={{backgroundImage: "url('/back.png')",backgroundSize: "cover", backgroundPosition: "center",backgroundRepeat: "no-repeat",}}>
       <Card className="w-full max-w-md">
         <CardHeader className="text-center">
           <div className="flex justify-center mb-4">
