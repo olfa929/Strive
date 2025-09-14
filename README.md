@@ -36,7 +36,7 @@ Seamless Experience: Dark modern UI with smooth transitions, motivational visual
 ## Externel Ressources: 
   - QROQ API for advanced data processing
     
-  - *3D Visualization*: [Digital Twin Heart Model] (l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1LVmLTn2dACesKEly0xRo_WKNNkHVOHD4%2Fview%3Fusp%3Dsharing%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExUEJkbkFoNU5kZ2QyR2NWQQEe2DF7n2j2S_nC0Q0nDNBK-Z49guEa0CbSbYMeoWHbjX-hzcXaHaNtrLGWgDE_aem_Euf6o5BWzYHnhJq3HTqfBg&h=AT3s4UhZFmojDTUT9thKRr5KuCYvtJwjRpyqiSelusiC_-IU3Xrscbz848fyiHBQBaPXttEUS_ZvoDRczUEH6zgymmIUPKSrTwiDmfQINaLPOvN9UOSdnTDy-aljoxFSgqbFUXPoyAV2fO-cy8Sr1w)
+  - *3D Visualization*: [Digital Twin Heart Model] (https://drive.google.com/file/d/1LVmLTn2dACesKEly0xRo_WKNNkHVOHD4/view?fbclid=IwY2xjawMzgu9leHRuA2FlbQIxMABicmlkETFQQmRuQWg1TmRnZDJHY1ZBAR4uNOn27-M1c3QA645ZU9KxjBeO7dL9TVd_HioBd4ZZhqgBiCMb5kVPIkZLDg_aem_rYwDgSYZyj2dJrbsDl61Sg)
     
 - *external data*: [kaggle] (https://www.kaggle.com/datasets/ziya07/wearable-sensor-system-for-physical-education?utm_source=chatgpt.com&fbclid=IwY2xjawMzfwdleHRuA2FlbQIxMABicmlkETFQQmRuQWg1TmRnZDJHY1ZBAR4KbaaLGRF6DdCAjXsqG2SohsxuMNKjFDAbx43xASrqwoFhzLhK8o5sCG9eTQ_aem_w31cmFYFLZgT_xc2xcwQ_Q)
 beating-heart.blend
