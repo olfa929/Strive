@@ -1,12 +1,14 @@
 import type { RunningData, AgentResponse } from "./data-service"
 
-const GROQ_API_KEY = "REDACTED"
+// Load the key from environment variables instead of hardcoding
+const GROQ_API_KEY = process.env.GROQ_API_KEY || ""
 const GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 export interface AnalysisSummary {
   summary: string
   recommendations: string[]
 }
+
 
 export class GroqService {
   async generateAnalysis(csvData: RunningData[], agentResponses: AgentResponse[]): Promise<AnalysisSummary> {

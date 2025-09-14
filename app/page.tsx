@@ -91,18 +91,7 @@ export default function HomePage() {
               <p className="text-gray-400">Comprehensive cardiovascular health tracking</p>
             </div>
             <div className="text-center">
-              <div className="w-16 h-16 mx-auto mb-4 bg-slate-700 rounded-full flex items-center justify-center">
-                <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2}
-                    d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"
-                  />
-                </svg>
-              </div>
-              <h3 className="text-xl font-semibold mb-2 text-white">Sleep Quality</h3>
-              <p className="text-gray-400">Advanced sleep pattern analysis and optimization</p>
+
             </div>
             <div className="text-center">
               <div className="w-16 h-16 mx-auto mb-4 bg-slate-800 rounded-full flex items-center justify-center">
