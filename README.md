@@ -1,6 +1,6 @@
 # StriveAI - Intelligent Health & Fitness Monitoring
 
-StriveAI is a modern web application built with Next.js that helps users monitor and improve their health and fitness journey through intelligent tracking and analytics.
+StriveAI is an advanced AI assistant designed specifically for athletes training for marathons. Our platform helps medical teams track and monitor crucial health metrics during the intensive month-long training period before major marathons.
 
 ## Features
 
@@ -65,7 +65,7 @@ StriveAI/
 
 ## Model Training
 
-The AI model used in StriveAI was trained using Google Colab. You can find the training code and methodology in our [training notebook](https://colab.research.google.com/drive/1Ejv6TZXQWFKXviYrWUpvPiILPFk6jPS0?usp=sharing&fbclid=IwY2xjawMyck5leHRuA2FlbQIxMABicmlkETFydVZBcW1ndVlkWDlqWEkxAR6Gig4ylFWtqvXZaUMz1EGWUvcihoGqq-asrUf4eAln-DdZ8-1Aet52d11SKA_aem_ZhuDXyO4EyuhLvQaAiWu0A#scrollTo=Vp464D6qOejX).
+The prediction model used in StriveAI was trained using [Google Colab](). You can find the training code and methodology in our [training notebook](https://colab.research.google.com/drive/1Ejv6TZXQWFKXviYrWUpvPiILPFk6jPS0?usp=sharing&fbclid=IwY2xjawMyck5leHRuA2FlbQIxMABicmlkETFydVZBcW1ndVlkWDlqWEkxAR6Gig4ylFWtqvXZaUMz1EGWUvcihoGqq-asrUf4eAln-DdZ8-1Aet52d11SKA_aem_ZhuDXyO4EyuhLvQaAiWu0A#scrollTo=Vp464D6qOejX).
 
 The notebook contains:
 - Data preprocessing steps
