@@ -1,6 +1,20 @@
-# StriveAI - Intelligent Health & Fitness Monitoring
+**🏃‍♂️ StriveAI – AI Assistant for Marathon Athletes**
 
-StriveAI is an advanced AI assistant designed specifically for athletes training for marathons. Our platform helps medical teams track and monitor crucial health metrics during the intensive month-long training period before major marathons.
+StriveAI is an intelligent platform that supports athletes and their medical teams in the crucial weeks leading up to a marathon. It leverages real-time biometric data from an integrated-circuit smart sports suit (not textile-based) and combines it with AI-driven digital twin simulations of the heart. This allows teams to monitor, predict, and optimize an athlete’s condition throughout intensive training.
+
+**🌟 Key Features**
+
+Smart Suit Integration: Collects continuous physiological signals (heart activity, sleep quality, overall medical state) from an advanced circuit-embedded sports suit.
+
+Digital Twin of the Heart: Generates a virtual model of the athlete’s heart to simulate performance, detect anomalies, and predict injury risks.
+
+AI-Powered Insights: Applies machine learning to detect patterns, forecast risks, and deliver actionable medical recommendations.
+
+Medical Team Dashboard: Centralized, intuitive view for doctors and trainers to track athlete health during the pre-marathon period.
+
+Personalized Athlete Profiles: Records height, weight, and marathon date for tailored monitoring and predictions.
+
+Seamless Experience: Dark modern UI with smooth transitions, motivational visuals, and secure Supabase data storage.
 
 ## Features
 
