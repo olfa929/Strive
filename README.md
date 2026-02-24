@@ -39,12 +39,12 @@ StriveAI revolutionizes marathon preparation by combining data from an integrate
 Integrated-circuit smart sports suit (heart rate, HRV, respiration, motion, skin temp, exertion).
 Smartwatch for sleep and environment data (sleep stages, interruptions, noise/light).
 
-### Preprocessing & Features**
+### Preprocessing & Features
 Real-time signal cleaning and noise reduction.
 Rolling windows of biometric data for near-instant analysis.
 Derived metrics: HRV indicators, recovery slope, exertion proxies, sleep quality indices.
 
-### Modeling Stack (6+ Models)**
+### Modeling Stack (6+ Models)
 - Real-Time Risk Classifier – lightweight CNN/GRU for instant “OK / Caution / Stop” signals.
 - Short-Horizon Forecaster – predicts near-future heart and recovery trends using temporal models.
 - Anomaly Detector – catches unseen or abnormal heart dynamics with autoencoders.
@@ -52,12 +52,12 @@ Derived metrics: HRV indicators, recovery slope, exertion proxies, sleep quality
 - Digital Heart Twin Simulation – virtual heart model that stress-tests performance under forecasted load.
 - Eligibility Decision Layer – combines all models’ outputs into a single “play / rest” recommendation.
 
-### Agent Orchestration**
+### Agent Orchestration
 Manages data ingestion, model calls, and decision logic.
 Balances risk, anomaly detection, and digital twin results into an Eligibility Score.
 Escalates alerts to medical teams with clear recommendations.
 
-### Evaluation & Benchmarks**
+### Evaluation & Benchmarks
 - Accuracy: AUROC, precision/recall of alerts.
 - Forecast quality: MAE and uncertainty coverage.*
 - System performance: low latency (<250 ms for decisions).
